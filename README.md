@@ -38,15 +38,15 @@
 ### ●	Select the options of process of pre-processing in the sequence in which they are shown.
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
-## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
-
 ## Output:
+![image](https://github.com/user-attachments/assets/bce76716-b8bf-47f3-8427-c3f5b8ac2698)
+![image](https://github.com/user-attachments/assets/a3878fa8-7a77-4a72-9738-81237c046f93)
+![image](https://github.com/user-attachments/assets/853917d4-6fbf-43f6-98d9-62384b01b1a1)
 
-### Name:
-### Register Number:
+
+
+### Name: Syed Abu Hanifa
+### Register Number: 24009356
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
