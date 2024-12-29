@@ -44,9 +44,15 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![image](https://github.com/user-attachments/assets/6e3186e5-5aad-4556-b60b-58b0f82d4263)
+![image](https://github.com/user-attachments/assets/de7a1b4d-a3c6-4b1d-bad8-957c5b060083)
+![image](https://github.com/user-attachments/assets/fb192664-f532-432c-90ce-f7e9a2dfc5f8)
+![image](https://github.com/user-attachments/assets/e03007b6-f502-4fbd-9ed7-c0134efa9759)
+![image](https://github.com/user-attachments/assets/e366f036-c367-43b0-b044-4120d46664d5)
+![image](https://github.com/user-attachments/assets/3efaf9e4-d14a-4306-b939-d3501a19a9aa)
 
-### Name:
-### Register Number:
+### Name: Syed Abu Hanifa
+### Register Number: 24009356
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
